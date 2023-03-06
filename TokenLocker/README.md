@@ -22,7 +22,6 @@ contract TokenLocker {
     // 代币释放后的受益人
     address public beneficiary;
 
-    // The timestamp when the tokens will be released
     // 代币释放的时间戳
     uint256 public releaseTime;
 
