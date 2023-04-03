@@ -13,4 +13,4 @@ This is a solidity learning project, which includes some common contract templat
 
 * [x] 10. [hardhat: toolkit for building a DApp （hardhat开发工具链介绍使用）](https://github.com/MingSeng-W/solidity-learn/tree/main/Hardhat)
 
-* [x] 11. [hardhat: toolkit for building a DApp （hardhat开发工具链介绍使用）](https://github.com/MingSeng-W/solidity-learn/tree/main/Foundry)
+* [x] 11. [foundry: Develop DApp faster and more efficiently （Foundry开发工具链介绍使用）](https://github.com/MingSeng-W/solidity-learn/tree/main/Foundry)
