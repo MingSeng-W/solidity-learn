@@ -1,5 +1,5 @@
 # 介绍 Hardhat
-    solidty的开发测试部署工具，类似于truffle，但是更加简单，更加轻量级，更加快速。
+    solidty的开发测试部署工具， 对使用js的同学比较容易上手， 对比truffle和foundry ,更加简单，更加轻量级，更加快速。
 # 如何安装 Hardhat, 并使用 Hardhat 创建一个新项目
     npm install --save-dev hardhat
     创建空白项目配置文件, hardhat.config.js
